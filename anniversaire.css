@@ -1,0 +1,29 @@
+body {
+  background-image: url("./joyeux-anniversaire-fond-ballon-gateau_229608-667.jpg.avif");
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+}
+
+h1 {
+  font-family: "Birthstone", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.text {
+  margin: 100px auto;
+  width: 320px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 20px;
+  width: 320px;
+}
